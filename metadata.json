@@ -1,0 +1,10 @@
+{
+  "name": "훠궈 & 샤브 마스터",
+  "description": "하이디라오 및 샤브샤브 황금 소스 조합, 입맛 맞춤 추천기, 구글맵 주변 맛집 지도, DIY 소스 제작기, 재료 꿀팁 및 타이머",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
